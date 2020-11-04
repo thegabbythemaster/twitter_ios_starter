@@ -22,8 +22,18 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+Login in
+<img src="http://g.recordit.co/B3pvUYIRIC.gif" width=250><br>
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+scrolling infinitly and refreshing:
+<img src = "http://g.recordit.co/BvLsDh0ytS.gif" width=250><br>
 
-<img src="" width=250><br>
+being stayed logged in:
+<img src = "http://g.recordit.co/kMKM4w0GP7.gif" width=250><br>
+
+logging out:
+<img src = "http://g.recordit.co/fTOTkHNksH.gif" width=250><br>
+
+app icon and launch screen:
+<img src = "http://g.recordit.co/BiuMGYRH6g.gif" width=250><br>
 
